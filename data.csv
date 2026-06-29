@@ -1,0 +1,7 @@
+date,time,level,user,action
+2026-06-27,10:15:32,INFO,alice,login
+2026-06-27,10:16:10,ERROR,bob,payment_failed
+2026-06-27,10:17:02,INFO,alice,view_page
+2026-06-27,10:18:20,WARNING,charlie,slow_request
+2026-06-27,10:19:01,INFO,bob,login
+2026-06-27,10:20:01,INFO,,logout
